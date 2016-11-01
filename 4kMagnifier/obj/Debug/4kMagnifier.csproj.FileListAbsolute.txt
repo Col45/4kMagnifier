@@ -1,0 +1,16 @@
+C:\Users\Colten\Documents\Visual Studio 2015\Projects\4kMagnifier\4kMagnifier\obj\Debug\App.g.cs
+C:\Users\Colten\Documents\Visual Studio 2015\Projects\4kMagnifier\4kMagnifier\obj\Debug\MainWindow.g.cs
+C:\Users\Colten\Documents\Visual Studio 2015\Projects\4kMagnifier\4kMagnifier\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Colten\Documents\Visual Studio 2015\Projects\4kMagnifier\4kMagnifier\obj\Debug\4kMagnifier_MarkupCompile.cache
+C:\Users\Colten\Documents\Visual Studio 2015\Projects\4kMagnifier\4kMagnifier\obj\Debug\4kMagnifier_MarkupCompile.lref
+C:\Users\Colten\Documents\Visual Studio 2015\Projects\4kMagnifier\4kMagnifier\bin\Debug\4kMagnifier.exe.config
+C:\Users\Colten\Documents\Visual Studio 2015\Projects\4kMagnifier\4kMagnifier\bin\Debug\4kMagnifier.exe
+C:\Users\Colten\Documents\Visual Studio 2015\Projects\4kMagnifier\4kMagnifier\bin\Debug\4kMagnifier.pdb
+C:\Users\Colten\Documents\Visual Studio 2015\Projects\4kMagnifier\4kMagnifier\obj\Debug\App.baml
+C:\Users\Colten\Documents\Visual Studio 2015\Projects\4kMagnifier\4kMagnifier\obj\Debug\MainWindow.baml
+C:\Users\Colten\Documents\Visual Studio 2015\Projects\4kMagnifier\4kMagnifier\obj\Debug\4kMagnifier.g.resources
+C:\Users\Colten\Documents\Visual Studio 2015\Projects\4kMagnifier\4kMagnifier\obj\Debug\_4kMagnifier.Properties.Resources.resources
+C:\Users\Colten\Documents\Visual Studio 2015\Projects\4kMagnifier\4kMagnifier\obj\Debug\4kMagnifier.csproj.GenerateResource.Cache
+C:\Users\Colten\Documents\Visual Studio 2015\Projects\4kMagnifier\4kMagnifier\obj\Debug\4kMagnifier.exe
+C:\Users\Colten\Documents\Visual Studio 2015\Projects\4kMagnifier\4kMagnifier\obj\Debug\4kMagnifier.pdb
+C:\Users\Colten\Documents\Visual Studio 2015\Projects\4kMagnifier\4kMagnifier\obj\Debug\4kMagnifier.csprojResolveAssemblyReference.cache
