@@ -5,6 +5,8 @@ About
 -----
 The goal of this WPF application that was to make the default tiny UI that comes with 4K resolution, larger and playable.
 
+[Youtube demonstration](https://www.youtube.com/watch?v=W3f8jUQHoMU).
+ 
 Current State
 -------------
 This code was put together using relatively new concepts for me, so do not expect any level of optimization. Over time I will go through
