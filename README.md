@@ -10,7 +10,7 @@ The goal of this WPF application that was to make the default tiny UI that comes
 Current State
 -------------
 This code was put together using relatively new concepts for me, so do not expect any level of optimization. Over time I will go through
-and comment and clean up everything.
+and comment and clean up everything. When everything is cleaned up and easy to follow, I'll make an explanation video dissecting the code to help push the progess.
 
 How to use
 ----------
