@@ -17,4 +17,4 @@ How to use
 ----------
 With the 4kMagnifier running in the background, and Age of Empires 2: HD running (NOTE: currently software looks only for HD edition)
 press crtl+F4, to toggle show/hide. You may have to toggle twice.
-Pressing ctrl+F5 will close the 4kMagnifier, which will continue to run in the background until done.
+Pressing ctrl+F5 will close the 4kMagnifier. The application will continue to run in the background until closed.
