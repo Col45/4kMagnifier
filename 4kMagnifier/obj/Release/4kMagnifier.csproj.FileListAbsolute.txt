@@ -13,3 +13,4 @@ C:\Users\Colten\Documents\Visual Studio 2015\Projects\4kMagnifier\4kMagnifier\ob
 C:\Users\Colten\Documents\Visual Studio 2015\Projects\4kMagnifier\4kMagnifier\obj\Release\4kMagnifier.csproj.GenerateResource.Cache
 C:\Users\Colten\Documents\Visual Studio 2015\Projects\4kMagnifier\4kMagnifier\obj\Release\4kMagnifier.exe
 C:\Users\Colten\Documents\Visual Studio 2015\Projects\4kMagnifier\4kMagnifier\obj\Release\4kMagnifier.pdb
+C:\Users\Colten\Documents\Visual Studio 2015\Projects\4kMagnifier\4kMagnifier\obj\Release\4kMagnifier.csprojResolveAssemblyReference.cache
